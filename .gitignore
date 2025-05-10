@@ -1,0 +1,48 @@
+# Java
+*.class
+*.log
+*.jar
+*.war
+*.ear
+*.db
+
+# Spring Boot specific
+target/
+
+# IntelliJ IDEA
+.idea/
+*.iml
+*.iws
+
+# Eclipse
+.project
+.classpath
+.settings/
+
+# VS Code
+.vscode/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Maven
+.mvn/
+*.mvn
+target/
+
+# Gradle
+.gradle/
+build/
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.bak
+*.swp
+
+# Environment files
+.env
+
